@@ -1,8 +1,8 @@
 # DayToDay
 This repo contains implementation for rest api created for rating app.
 
-Read/Retrieve
-Request all Products details
+1)Read/Retrieve
+  Request all Products details
 
 Request
 HTTP GET -> http://localhost:8080/products 
@@ -76,8 +76,8 @@ Response
 ]
 
 
-Create
-Request to submit a new comment and rating
+2)Create
+  Request to submit a new comment and rating
 
 Request
 HTTP POST -> http://localhost:8080/products/2
